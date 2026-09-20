@@ -10,5 +10,5 @@ func main(){
 	// Hello world
 	fmt.Println("Hello, World")
     learngo.Hello()
-    variablene.vardy()
+    learngo.Vardy()
 }
